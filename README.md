@@ -21,7 +21,7 @@ online classes in Microsoft Teams
 | Week | Date | Subjects | Assignments Due |
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Oct 5<br>Mon]() | Methodologies? | |
-| 2 | [Oct 12<br>Mon]() |  | Watching [Abstract the art of design: Paula Scher](https://www.youtube.com/watch?v=LCfBYE97rFk) |
+| 2 | [Oct 12<br>Mon]() |  | **Watching:** [Abstract the art of design: Paula Scher](https://www.youtube.com/watch?v=LCfBYE97rFk), **Designing:** [writtenAllOverYourFace](ex/writtenAllOverYourFace.md) |
 | 3 | [Oct 19<br>Mon]() |  | |
 | 4 | [Oct 26<br>Mon]() |  | |
 | 5 | [Nov 2<br>Mon]() |  | |
