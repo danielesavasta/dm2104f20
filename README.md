@@ -21,7 +21,7 @@ online classes in Microsoft Teams
 | Week | Date | Subjects | Assignments Due |
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Oct 5<br>Mon](daily/oct5.md) | Methodologies? | |
-| 2 | [Oct 12<br>Mon](daily/oct12.md) |  | **Watching:** [Abstract the art of design: Paula Scher](https://www.youtube.com/watch?v=LCfBYE97rFk), **Designing:** [Written All Over Your Face](ex/writtenAllOverYourFace.md) |
+| 2 | [Oct 12<br>Mon](daily/oct12.md) | Introductions (9.30-11.00), The Double Diamond (11.00-12.15), Assignments | **Watching:** [Abstract the art of design: Paula Scher](https://www.youtube.com/watch?v=LCfBYE97rFk), **Designing:** [Written All Over Your Face](ex/writtenAllOverYourFace.md) |
 | 3 | [Oct 19<br>Mon]() |  | |
 | 4 | [Oct 26<br>Mon]() |  | |
 | 5 | [Nov 2<br>Mon]() |  | |
