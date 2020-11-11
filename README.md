@@ -26,7 +26,7 @@ online classes in Microsoft Teams
 | 4 | Oct 26<br>Mon | Visual Research | - |
 | 5 | Nov 2<br>Mon | Lesson Suspended | - |
 | 6 | Nov 9<br>Mon | Review, [Idea Generation P1](http://www.dan.sv.it/teaching/dm2104f20/dm05/) | |
-| 7 | Nov 16<br>Mon | Review, [Idea Generation P2](http://www.dan.sv.it/teaching/dm2104f20/dm05/) | **Reading:** [Idea Generation](ex/ideageneration1.md), **Designing:** [Workbook](ex/workbook2.md) |
+| 7 | Nov 16<br>Mon | Review, [Idea Generation P2](http://www.dan.sv.it/teaching/dm2104f20/dm05/) | **Reading:** [Wilson C., (2013) Brainstorming and Beyond, p2-22](https://drive.google.com/file/d/1gzIIGOlOwKfYCrP50vzzsA1ZVx_ba2lq/view?usp=sharing), **Designing:** [Workbook](ex/workbook2.md) |
 | 8 | [Nov 23<br>Mon]() |  | |
 | 9 | [Nov 30<br>Mon]() |  | |
 | 10 | [Dec 7<br>Mon]() |  | |
